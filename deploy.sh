@@ -24,7 +24,7 @@ realbase=""
 # ./deb-packup.sh log 输出log
 # ./deb-packup.sh collect 根據$keyvalue，收集文件到$tobase目錄下，用於打包
 # ./deb-packup.sh discollect 根據$keyvalue的目標地址，逐個刪除。
-
+///B分支
 log=0
 log(){
     log=1
