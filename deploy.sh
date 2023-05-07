@@ -29,7 +29,7 @@ log=0
 log(){
     log=1
 }
-
+///A测试
 arraysetup(){
     tmppath="/tmp/viks/"
     fromlistdir=$tmppath"fromlist"
